@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:slak/Learning/Action_Video.dart';
+// import 'package:slak/Learning/Action_Video.dart';
 import 'package:slak/alpacaStock/alpacaMain.dart';
-import 'package:slak/components/AppWidget.dart';
+// import 'package:slak/components/AppWidget.dart';
 import 'package:slak/constant.dart';
 import 'package:slak/createpost/camera.dart';
-import 'package:slak/screens/landing/landing.dart';
-import 'package:slak/createpost/createpost.dart';
+// import 'package:slak/screens/landing/landing.dart';
+// import 'package:slak/createpost/createpost.dart';
 import 'package:camera/camera.dart';
 List<CameraDescription> cameras = [];
 Future<void> main() async {
