@@ -66,9 +66,7 @@ class _CreatePostState extends State<CreatePost> {
            "summary":summary,
            "url":url,
            "image": postImage
-     }
-
-     );
+     });
      print(jsonDecode(response.body));
      Map data=jsonDecode(response.body);
      print(data['body']);
